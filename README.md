@@ -1,5 +1,20 @@
 
 ### Pyber Analysis
+
+### Using Pandas Python, I analyze data from a fictitious ride sharing company.  In this analysis, I provide several plots using Matplotlib and Seaborn that show the relationshp between four key variables:
+
+ - Average Fare ($) Per City
+ - Total Number of Rides Per City
+ - Total Number of Drivers Per City
+ - City Type (Urban, Suburban, Rural)
+ 
+I also provide data in the form of three pie charts:
+
+ - % of Total Fares by City Type
+ - % of Total Rides by City Type
+ - % of Total Drivers by City Type
+ 
+ 
   #### Observed Trends
    - 68.4% rides came from Urban cities.  As shown from the data, the demand for rides is mostly in the Urban cities where totla number of rides range for the Urban cities range from 20-35 rides.  
    - Rides from Rural cities had the least number of total drivers and number of rides.  However, the average fare for Rural cities tended to be higher than Suburban and Urban cities.  This is probably due to less population density and greater area.
